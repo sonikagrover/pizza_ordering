@@ -1,0 +1,7 @@
+{
+    "topping":["green peppers","red onion" ,"grape tomatoes", "spinach", "mushroom","extra-cheese"],
+    "crust":["regular","Thin crust","Multigrain"],
+    "sauce":[ "zesty tomato", "alfredo"],
+    "size":["Personal","small","Medium","Large","X-Large"],
+    "type":["Veggie","Cheese"]
+    }
